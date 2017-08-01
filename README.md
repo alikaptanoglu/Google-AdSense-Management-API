@@ -28,3 +28,5 @@ API.
 
 This will start an authentication flow, redirect back to your server, and then
 print data about your AdSense account.
+
+For more information visit [Google Developers Guide](https://developers.google.com/api-client-library/php/start/get_started)
