@@ -1,3 +1,5 @@
+NOTE: If you arrived here from `developers.google.com`, you should be using the [v1-branch](https://github.com/google/google-api-php-client/tree/v1-master) of this repo
+
 # AdSense Management API sample for PHP
 
 This sample runs a number of different requests against the AdSense Management
